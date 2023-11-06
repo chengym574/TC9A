@@ -120,3 +120,4 @@ class Deck:
 # Creating a deck and printing its representation
 deck = Deck()
 print(deck)
+print('Welcome to GitHub!')
